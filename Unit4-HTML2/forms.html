@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Forms</title>
+</head>
+<body>
+	<h1>Sign In</h1>
+<!-- 	action - where form sends data to
+	method - what http method to get/post -->
+	<form action="http://wikipedia.com" method="get">
+		<label>
+			Username:
+			<input name="username" type="text" placeholder="username" required>
+		</label>
+		<label>
+			Password
+			<input name="password" type="password" placeholder="password" required>
+		</label>
+		<button>Submit</button>
+	</form>
+
+	<h3> alternate way of doing labels </h3>
+
+	<form action="http://wikipedia.com" method="get">
+		<label for="Email">Email:</label>
+		<input id="Email" name="Email" type="Email" placeholder="Email" required>
+		<label for="password">Password:</label>
+		<input id"password" name="password" type="password" placeholder="password" required>
+		<button>Submit</button>
+	</form>
+
+</body>
+</html>

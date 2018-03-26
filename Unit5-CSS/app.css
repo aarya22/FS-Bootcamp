@@ -1,0 +1,23 @@
+h1 {
+	color: #000000;
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+	border: 8px dashed gray;
+}
+
+li {
+	color: #4B0082;
+}
+
+h4 {
+	color: #FF1493;
+	background: rgb(200, 130, 150);
+}
+
+body {
+	background: pink;
+	/*background: url(https://images.woodmagazine.mdpcdn.com/sites/default/files/styles/scale_1500_1500/public/image/2016/11/30/WD318111.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}

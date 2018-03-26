@@ -1,0 +1,15 @@
+li {
+	border: 2px solid green;
+}
+
+#special {
+	background-color: blue;
+}
+
+.completed {
+	text-decoration: line-through;
+}
+
+input[type="checkbox"] {
+	background: blue;
+}
