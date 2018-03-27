@@ -1,1 +1,1 @@
-"# FS-Bootcamp" 
+Exercises I did to learn full-stack development.
